@@ -1,5 +1,5 @@
 # Hare-Lynx-Owl
-MATLAB code I used to study my Hare-Lynx-Owl ODE model during and after my Master's thesis.
+Code I used to study my Hare-Lynx-Owl ODE model during and after my Master's thesis. Mainly MATLAB, but the LaTeX for my thesis is included.
 
 ABSTRACT
 
